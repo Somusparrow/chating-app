@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891731289921",
+    "project_id": "instagram-5ad60",
+    "storage_bucket": "instagram-5ad60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891731289921:android:0228ab8843772ca8ed63c0",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6tPM73WQBur48Oh3DKvoh9BRrAYUYRn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
